@@ -1,0 +1,13 @@
+# Minimal model-testing dependencies
+-r requirements.txt
+
+# Additional dependencies used by the full simulation/visualization scripts
+scipy
+tqdm
+matplotlib
+seaborn
+trimesh
+open3d
+
+# Optional acceleration for trimesh ray intersection, depending on platform
+# embreex
