@@ -1,0 +1,3 @@
+﻿Variety,Candidate_Type,Row_Spacing_cm,Plant_Spacing_cm,Density_plants_m2,RF_Surrogate_R2_against_YieldScore
+DN251,Virtual_2D_response_surface,22.87878787878788,23.959595959595962,18.24263203153792,0.99481815295538
+DN251,Best_on_measured_50cm_transect,50.0,23.619365609348915,8.467627933276788,0.99481815295538
