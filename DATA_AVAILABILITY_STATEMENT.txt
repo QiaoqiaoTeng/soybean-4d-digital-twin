@@ -3,7 +3,7 @@ Data Availability
 The archived digital-twin simulation outputs, trained random-forest surrogate
 models, model-testing inputs, and analysis scripts supporting the computational
 analyses in this study are publicly available in the associated GitHub
-repository: [INSERT GITHUB REPOSITORY URL].
+repository: https://github.com/QiaoqiaoTeng/soybean-4d-digital-twin.
 
 The repository provides frozen surrogate models for the five soybean cultivars
 evaluated in this study (DN251, DN252, DN253, HN48, and HN51), together with
